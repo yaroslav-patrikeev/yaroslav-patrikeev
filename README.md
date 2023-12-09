@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**yaroslav-patrikeev/yaroslav-patrikeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1 style="text-align: center">Привет всем! 👋</h1>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+### :adult: Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Я фронтенд-разработчик из Москвы
+- Закончил РГУ им. А. Н. Косыгина, Яндекс Практикум по специальности веб-разработчик
+- Участник хакатона "Просепт х Яндекс Пратикум"
+- Работаю педагогом и системным администратором. Создал и администрирую сайт своей организации и корпоративную платформу для сотрудников.
+- Ключевые навыки: HTML, CSS, React, Typescript, Express, PostgreSQL, MongoDB
